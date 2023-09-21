@@ -1,2 +1,18 @@
 # HelloWorld
-Hello world for the programming languages I know
+"Hello World" for different programming languages
+
+## Languages
+- C
+- C++
+- C#
+- Java
+- Python
+- Ruby
+- Rust
+- JavaScript
+- TypeScript
+
+## Additional
+Includes GitHub setup
+- Tests
+- License
