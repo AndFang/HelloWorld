@@ -1,0 +1,11 @@
+name: Checks
+
+on: [push]
+
+jobs:
+  test-lints:
+    name: HelloWorld
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set Up Python
+        uses: actions/setup-python@v4
