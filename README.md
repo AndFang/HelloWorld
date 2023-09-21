@@ -11,6 +11,8 @@
 - Rust
 - JavaScript
 - TypeScript
+- Haskell
+- Scheme
 
 ## Additional
 Includes GitHub setup
